@@ -1,10 +1,4 @@
-//
-//  GameViewController.swift
-//  UFOTest
-//
-//  Created by Mikhail Petrenko on 11/21/18.
-//  Copyright © 2018 Mikhail Petrenko. All rights reserved.
-//
+
 
 import UIKit
 import QuartzCore
